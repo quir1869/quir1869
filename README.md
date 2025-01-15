@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi I'm Connor Quiroz!
 
+I'm a Ph.D. Student at the University of Washington studying Aquatic and Fishery Sciences. I'm currently conducting research to disentangle data disparities in global seafood trade to ensure more reliable, robust environmental/economic assessments on national seafood consumption. I believe that we will never obtain the truth about a system or process, but through thoughtful statistics and data science practices, we can make good estimates of the truth, thereby bettering human lives. 
+
+### Hobbies 🏊‍♂️🚴🏃‍♂️
+Running, biking, swimming, skiing - anything outside or where I'm exploring new activities and places!
 <!--
 **quir1869/quir1869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
