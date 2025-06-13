@@ -2,8 +2,12 @@
 
 I'm a Ph.D. Student at the University of Washington studying Aquatic and Fishery Sciences. I'm currently conducting research to disentangle data disparities in global seafood trade to ensure more reliable, robust environmental/economic assessments on national seafood consumption. I believe that we will never obtain the truth about a system or process, but through thoughtful statistics and data science practices, we can make good estimates of the truth, thereby bettering human lives. 
 
-### Hobbies 🏊‍♂️🚴🏃‍♂️
-Running, biking, swimming, skiing - anything outside or where I'm exploring new activities and places!
+<div id="badges">
+  <a href="https://www.linkedin.com/in/connor-quiroz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+
+---
 
 ### Programming Languages & Platforms
 
@@ -16,6 +20,12 @@ Running, biking, swimming, skiing - anything outside or where I'm exploring new 
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
+
+---
+
+### Hobbies 🏊‍♂️🚴🏃‍♂️
+Running, biking, swimming, skiing - anything outside or where I'm exploring new activities and places!
+
 <!--
 **quir1869/quir1869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
