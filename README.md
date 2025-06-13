@@ -4,6 +4,18 @@ I'm a Ph.D. Student at the University of Washington studying Aquatic and Fishery
 
 ### Hobbies 🏊‍♂️🚴🏃‍♂️
 Running, biking, swimming, skiing - anything outside or where I'm exploring new activities and places!
+
+### Programming Languages & Platforms
+
+![R](https://img.shields.io/badge/R-165CAA?style=flat-square&logo=R&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+
+[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)
+[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
+[![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](#)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)](#)
 <!--
 **quir1869/quir1869** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
