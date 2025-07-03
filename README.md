@@ -1,5 +1,6 @@
 <div align=center>
   <img src="https://readme-typing-svg.herokuapp.com/?color=%23446eda&size=32&center=true&vCenter=true&width=600&height=50&lines=I%27m+a+Marine+Biologist;Problem+Solver;Applied+Statistician;Data+Science+Enthusiast;Open+Source+Programmer" alt="Headline" />
+  
 </div>
 
 <div align = 'center'>
@@ -13,17 +14,11 @@
     
 </div>
 
----
 
 <div align = 'center'>
 <h1>Research Interests</h1>
   I am developing risk assessments on international seafood consumption, identifying how countries' seafood reliance and social-economic structures impact food security. I am also working to treat data disparities in global seafood trade data to ensure more reliable risk assessments. This involves Bayesian statistics and leveraging high performance computers.
 </div>
-
-
----
-
-
 
 <div align = 'center'>
   <h1>Programming Languages & Platforms</h1>
@@ -40,9 +35,6 @@
 <code><img height="30" src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white"></code>
   </p>
 </div>
-
-
----
 
 <div align = 'center'>
 <h1>Hobbies 🏊‍♂️🚴🏃‍♂️</h1>
