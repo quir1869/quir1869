@@ -38,7 +38,8 @@
 
 <div align = 'center'>
 <h1>Hobbies 🏊‍♂️🚴🏃‍♂️</h1>
-  Running, biking, swimming, skiing - anything outside or where I'm exploring new activities and places! Currently training for an Ironman in Kalmar, Sweden
+  Running, biking, swimming, skiing - anything outside or where I'm exploring new activities and places! Completed an Ironman in Sweden 🎉
+
 </div>
 
 <!--
