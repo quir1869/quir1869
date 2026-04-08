@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=%23446eda&size=30&center=true&vCenter=true&width=650&height=50&lines=Marine+Biologist;Applied+Statistician;Working+on+Food+%26+Climate+Problems" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=%23446eda&size=30&center=true&vCenter=true&width=650&height=50&lines=Marine+Biologist;Applied+Statistician;Data+Scientist;Food+Systems+Scientist" />
   
   <h1>Connor Quiroz</h1>
   <p>
