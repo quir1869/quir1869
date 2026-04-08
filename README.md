@@ -60,8 +60,4 @@ Most of the heavy lifting is Bayesian modeling and running things on HPC systems
 
 ### Outside of this
 
-When I’m not working, I’m usually doing something outside.
-
-Running, biking, swimming, skiing – pretty much anything that gets me moving.
-
-I Completed an Ironman in Sweden (Summer 2025)!
+When I’m not working, I’m usually doing something outside. Running, biking, swimming, skiing – pretty much anything that gets me moving.
