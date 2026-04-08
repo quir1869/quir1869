@@ -15,7 +15,7 @@
 
 ### About
 
-I build practical, innovative models to understand the nutritional value and food security of global food systems – mostly working with global seafood data.
+I build practical, innovative models to understand the nutritional value and food security of global food systems – mostly working with global seafood trade data.
 
 Lately, that’s meant spending a lot of time thinking about:
 - how countries rely on seafood differently,
